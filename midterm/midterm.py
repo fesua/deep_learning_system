@@ -1,3 +1,5 @@
+# cifar-100 분류
+
 from typing import List  # Corrected import statement
 from tqdm import tqdm
 from torchvision import models
