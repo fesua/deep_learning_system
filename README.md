@@ -7,7 +7,7 @@ If you use it, Get karlo API key and fill "REST_API_KEY and change prompts
 
 # output
 ## karlo image
-![image](https://github.com/user-attachments/assets/43c8e84f-b1c8-4141-b809-1e1e3bb3fa38)
+![output](https://github.com/user-attachments/assets/16e3715e-1add-46f7-93d8-b9476017e885)
 
 ## style transfer
-![image](https://github.com/user-attachments/assets/dd052a19-a8e3-4686-9965-86f96b080c18)
+![image](https://github.com/user-attachments/assets/062361db-4119-4950-bd30-29073a051180)
