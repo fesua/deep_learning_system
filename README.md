@@ -1,4 +1,4 @@
-# finalterm: style_transfer_based_text
+# Finalterm: style_transfer_based_text
 
 We use karlo API and ClipStyler
 
